@@ -7,6 +7,8 @@ Assignment: Landing page + Admin panel + Backend (Projects, Clients, Contacts, S
 - Image cropping: Sharp (server-side)
 
 ## Run locally
+
+
 1. Backend
    - cd backend
    - cp .env.example .env
